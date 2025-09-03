@@ -1,0 +1,27 @@
+div.cards
+{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 2em;
+}
+
+
+.card-buttons
+{
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+form{
+    display: contents;
+}
+
+input[type='submit']
+{
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
