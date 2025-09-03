@@ -1,6 +1,7 @@
 ## Disclaimer
 This PHP file makes use of several bash processes and can be considered unsafe. Use at your own risk and only allow trusted people to access this dashboard.
-This was created way before ChatGPT was created. Any bad code is really of my own mind. 
+
+This code was written way before ChatGPT was created. Any bad code is really of my own mind. 
 
 ## Why I took on this work
 I play minecraft with my friends and I self-host the Minecraft server. However, I frequently go to sleep before they do so there was a real need for them to execute basic control actions like starting and stopping servers and deleting worlds (we play on an hardcore mode where once somene dies we delete the world).
